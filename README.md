@@ -9,6 +9,16 @@ An overengineered nuclear power plant management system for Minecraft.
  - [IC2 Wiki](https://wiki.industrial-craft.net/index.php?title=Main_Page)
 
 
+## Documentation
+![Structure](/00_MANUAL/IfritNuclear_Plan.drawio.svg?raw=true "Ifrit Nuclear Structure")
+
+
+
+See the 00_MANUAL folder for more details.
+
+
+
+
 
 ## Author
 
