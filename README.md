@@ -11,6 +11,7 @@ An overengineered nuclear power plant management system for Minecraft.
 
 ## Documentation
 ![Structure](/00_MANUAL/IfitNuclear_Plan.drawio.svg?raw=true&sanitize=true "Ifrit Nuclear Structure")
+
 See the 00_MANUAL folder for more details.
 
 
